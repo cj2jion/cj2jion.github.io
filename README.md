@@ -1,3 +1,2 @@
-##介绍
-
-> 用Github+ jekyll做的一个简单blog，模板主题借用于[掌心](http://www.zhanxin.info)。
+# cj2jion.github.io
+This is a compressed-commit version of [github.com/resumecard](https://github.com/resumecard)
