@@ -42,7 +42,7 @@ timezone:      null
 title: 个人笔记
 description: 利用 github和jekyll建立的个人博客，其中主题借用于掌心.
 keywords:  Github，Jekyll，Blog
-url: https://cj2jion.github.io
+url: https://cj2jion.github.io/
 feed: /atom.xml
 favicon: \images\animated_favicon1.gif
 
